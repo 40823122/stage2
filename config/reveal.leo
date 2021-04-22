@@ -31,12 +31,13 @@
 <v t="leo.20210422131230.2"><vh>newHeadline</vh></v>
 <v t="leo.20210422131230.3"><vh>newHeadline</vh></v>
 <v t="leo.20210422131536.1"><vh>newHeadline</vh></v>
-<v t="leo.20210422131608.1"><vh>newHeadline</vh></v>
+<v t="leo.20210422132003.1"><vh>newHeadline</vh></v>
 </v>
 <v t="leo.20200818170725.1"><vh>slide 4</vh>
 <v t="leo.20210422025557.1"><vh>newHeadline</vh></v>
 <v t="leo.20210422025558.1"><vh>newHeadline</vh></v>
 <v t="leo.20210422025510.1"><vh>newHeadline</vh></v>
+<v t="leo.20210422132436.1"><vh>newHeadline</vh></v>
 </v>
 </v>
 </v>
@@ -258,8 +259,11 @@ vertical: body pane on the botton</t>
 <t tx="leo.20210422131536.1">&lt;section&gt;
 &lt;iframe width="560" height="315" src="https://www.youtube.com/embed/_QSEywsAqok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
 &lt;/section&gt;</t>
-<t tx="leo.20210422131608.1">&lt;section&gt;
+<t tx="leo.20210422132003.1">&lt;section&gt;
 &lt;iframe width="560" height="315" src="https://www.youtube.com/embed/DpjRcUwx6eQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/section&gt;</t>
+<t tx="leo.20210422132436.1">&lt;section&gt;
+  &lt;p&gt;&lt;span&gt;&lt;a href="https://40823122.github.io/cd2021/content/%E6%A8%A1%E6%93%AC%E9%81%87%E5%88%B0%E7%9A%84%E5%95%8F%E9%A1%8C.html"&gt;模擬問題&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;
 &lt;/section&gt;</t>
 </tnodes>
 </leo_file>
