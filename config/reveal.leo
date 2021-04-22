@@ -24,6 +24,14 @@
 <v t="leo.20200818170909.1"><vh>slide 3-1</vh></v>
 <v t="leo.20200818170953.1"><vh>slide 3-2</vh></v>
 <v t="leo.20200818171010.1"><vh>slide 3-3</vh></v>
+<v t="leo.20210422131228.1"><vh>newHeadline</vh></v>
+<v t="leo.20210422131229.1"><vh>newHeadline</vh></v>
+<v t="leo.20210422131229.2"><vh>newHeadline</vh></v>
+<v t="leo.20210422131230.1"><vh>newHeadline</vh></v>
+<v t="leo.20210422131230.2"><vh>newHeadline</vh></v>
+<v t="leo.20210422131230.3"><vh>newHeadline</vh></v>
+<v t="leo.20210422131536.1"><vh>newHeadline</vh></v>
+<v t="leo.20210422131608.1"><vh>newHeadline</vh></v>
 </v>
 <v t="leo.20200818170725.1"><vh>slide 4</vh>
 <v t="leo.20210422025557.1"><vh>newHeadline</vh></v>
@@ -205,16 +213,16 @@ vertical: body pane on the botton</t>
 
 </t>
 <t tx="leo.20200818170909.1">&lt;section&gt;
-156151651
+繪圖及組裝
 
 &lt;/section&gt;
 </t>
 <t tx="leo.20200818170953.1">&lt;section&gt;
-
+&lt;p&gt;&lt;img alt="" height="200" src="https://raw.githubusercontent.com/40823122/stage2-ag7/main/images/2-1.png" width="400"&gt;&lt;/p&gt;
 &lt;/section&gt;
 </t>
 <t tx="leo.20200818171010.1">&lt;section&gt;
-
+&lt;p&gt;&lt;img alt="" height="200" src="https://raw.githubusercontent.com/40823122/stage2-ag7/main/images/2-2.png" width="400"&gt;&lt;/p&gt;
 &lt;/section&gt;</t>
 <t tx="leo.20210422025510.1">&lt;section&gt;
 &lt;p&gt;機構整體&lt;/p&gt;
@@ -228,6 +236,30 @@ vertical: body pane on the botton</t>
 &lt;p&gt;&lt;a href="https://drive.google.com/drive/folders/1XP_-QFJenDkuirIjxmf-mK2-rzZud7eg?usp=sharing"&gt;v-rep模擬檔案&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;機構內部齒輪&lt;/p&gt;
 &lt;p&gt;&lt;iframe width="560" height="315" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen" frameborder="0" src="https://www.youtube.com/embed/EYJRSSRMWxE" title="YouTube video player"&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;/section&gt;</t>
+<t tx="leo.20210422131228.1">&lt;section&gt;
+&lt;p&gt;&lt;img alt="" height="200" src="https://raw.githubusercontent.com/40823122/stage2-ag7/main/images/2-3.png" width="400"&gt;&lt;/p&gt;
+&lt;/section&gt;</t>
+<t tx="leo.20210422131229.1">&lt;section&gt;
+&lt;p&gt;&lt;img alt="" height="200" src="https://raw.githubusercontent.com/40823122/stage2-ag7/main/images/stage2.png" width="400"&gt;&lt;/p&gt;
+&lt;/section&gt;</t>
+<t tx="leo.20210422131229.2">&lt;section&gt;
+&lt;p&gt;&lt;img alt="" height="200" src="https://raw.githubusercontent.com/40823122/stage2-ag7/main/images/%E8%9E%BA%E9%87%982-2-1.png" width="400"&gt;&lt;/p&gt;
+&lt;/section&gt;</t>
+<t tx="leo.20210422131230.1">&lt;section&gt;
+&lt;p&gt;&lt;img alt="" height="200" src="https://raw.githubusercontent.com/40823122/stage2-ag7/main/images/%E9%BD%92%E8%BC%AA%E7%B5%84.png" width="400"&gt;&lt;/p&gt;
+&lt;/section&gt;</t>
+<t tx="leo.20210422131230.2">&lt;section&gt;
+&lt;p&gt;&lt;img alt="" height="200" src="https://raw.githubusercontent.com/40823122/stage2-ag7/main/images/%E9%BD%92%E8%BC%AA%E8%BB%B8.png" width="400"&gt;&lt;/p&gt;
+&lt;/section&gt;</t>
+<t tx="leo.20210422131230.3">&lt;section&gt;
+組裝測試
+&lt;/section&gt;</t>
+<t tx="leo.20210422131536.1">&lt;section&gt;
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/_QSEywsAqok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/section&gt;</t>
+<t tx="leo.20210422131608.1">&lt;section&gt;
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/DpjRcUwx6eQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
 &lt;/section&gt;</t>
 </tnodes>
 </leo_file>
